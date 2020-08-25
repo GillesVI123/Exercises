@@ -1,1 +1,2 @@
-First text file
+Hello class, 
+Welcome to my git repository
